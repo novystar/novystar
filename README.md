@@ -1,5 +1,5 @@
 nova (she/her)
 
 - 18yo
-- skript dev/user since mid 2021 with minecraft server dev & admin experience
+- skript nerd since 2021
 - currently learning java & plugin development
